@@ -1,2 +1,2 @@
-Mistrailai
-streamlit
+mistrailai
+Streamlit
